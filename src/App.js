@@ -1,9 +1,10 @@
 import './App.css';
+import WHRCalculator from './components/WHRCalculator';
 
 function App() {
   return (
     <div>
-    <h1>WHR Calculator</h1>
+      <WHRCalculator />
     </div>
   );
 }
